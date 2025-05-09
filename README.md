@@ -6,19 +6,7 @@ ZekeShot is a pixel Pygame shooter where the user blast upward through waves of 
 ## Demo KPI 📈
 ![ZekeShot gameplay gif](data/images/demo.gif)
 
-## Value Proposition
-* **Optimized rendering pipeline** leveraging `pygame.time.Clock` for consistent 60 FPS.
-* **Modular domain model** (Player → Bullet → Enemy) for rapid feature iterations.
-* **Plug-and-play asset pack** under `data/`—no extra asset licenses required.
 
-## Prerequisites
-| Asset | Minimum Spec |
-|-------|--------------|
-| **Python** | 3.10 + (tested on 3.11) |
-| **Pip** | ≥ 22.x |
-| **OS** | macOS, Linux, or Windows 10/11 |
-
-> **Heads‑up:** On macOS you may need to allow the app to receive keyboard focus under **System Settings → Privacy & Security → Input Monitoring**.
 
 ## Quick‑Start Playbook
 ```bash
