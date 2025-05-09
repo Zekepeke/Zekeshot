@@ -1,10 +1,6 @@
 # ZekeShot
 ZekeShot is a pixel Pygame shooter where the user blast upward through waves of enemies to collect even **more** chickens. 
 
-## Demo KPI 📈
-![ZekeShot gameplay gif](data/images/demo.gif)
-
-
 
 ## Quick‑Start Playbook
 ```bash
