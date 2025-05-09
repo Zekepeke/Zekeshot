@@ -16,7 +16,7 @@ is_menu = True
 class Bullet():
     global frame
     def __init__(self, position):
-        #Makes a bullet following the player and size of bullet explosion can be changed by width 
+        # Makes a bullet following the player and size of bullet explosion can be changed by width 
         self.explosion = None
         self.position = Vector2()
         self.position.x = position.x
