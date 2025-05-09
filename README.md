@@ -1,9 +1,7 @@
 # ZekeShot 🚀
 
-> **Mission statement:** Deliver a fast-paced, chicken-powered arcade experience that keeps users engaged and KPIs trending north. 🐔🕹️
-
 ## Executive Summary
-ZekeShot is a pixel-perfect Pygame shooter where you, the fearless chicken-wrangler, blast upward through waves of enemies to collect even **more** chickens. The game was ideated and engineered by **Esequiel “Zeke” Linares** as a sandbox for sharpening real-time rendering skills and showcasing clean, test-driven Python architecture.
+ZekeShot is a pixel Pygame shooter where the user blast upward through waves of enemies to collect even **more** chickens. 
 
 ## Demo KPI 📈
 ![ZekeShot gameplay gif](data/images/demo.gif)
