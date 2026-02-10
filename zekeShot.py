@@ -16,7 +16,7 @@ is_menu = True
 class Bullet():
     global frame
     def __init__(self, position):
-        # Makes a bullet following the player and size of bullet explosion can be changed by width         
+        # Makes a bullet following the player and size of bullet explosion can be changed by width w
         self.explosion = None
         self.position = Vector2()
         self.position.x = position.x
@@ -28,7 +28,6 @@ class Bullet():
         self.explosion = pygame.image.load('data/images/Explosion.png').convert_alpha()
         self.explosion = pygame.transform.scale(self.explosion, (w, w))
         screen.blit(self.explosion, self.position)
-    
     def scale_down(self):
         #Rate of change of bullet explosion being diminished
         if(self.width > 0):
