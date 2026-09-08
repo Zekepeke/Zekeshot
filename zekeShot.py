@@ -22,6 +22,7 @@ class Bullet():
         self.position.x = position.x
         self.position.y = position.y
         self.width = 100
+        
 
     def draw(self, screen):
         w = math.fabs(self.width)
